@@ -785,7 +785,8 @@ contact.html
 
 
 ![Screenshot (329)](https://github.com/MaheshMuthuL/softweb/assets/135570619/15acbeb2-84f8-45e9-8987-00fb2230d7cd)
-![Screenshot (330)](https://github.com/MaheshMuthuL/softweb/assets/135570619/820b3843-eb69-4a50-aba1-30a5f2881b94)
+![Screenshot (332)](https://github.com/MaheshMuthuL/softweb/assets/135570619/30e3eb5e-faff-4420-9d0e-a0e026065203)
+
 
 
 
